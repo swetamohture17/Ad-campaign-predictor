@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+haversine
+basemap
+hdbscan
+pyarrow
+fastparquet
+vecstack
+xgboost
+imbalanced-learn
+mlxtend
+streamlit
+watchdog
